@@ -3,22 +3,16 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/ricoogh/ubot
+git clone https://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@github.com/ibnugt/Sigma
 ```
 ```
-cd ubot && screen -S ubot
+cd Sigma && screen -S Sigma
 ```
 ```
-apt install ffmpeg -y
+apt install ffmpeg -y && bash installnode.sh && apt install python3.10-venv
 ```
 ```
-bash installnode.sh
-```
-```
-apt install python3.10-venv
-```
-```
-python3 -m venv ubot && source ubot/bin/activate
+python3 -m venv Sigma && source Sigma/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
@@ -27,22 +21,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S ubot
-```
-```
-python3 -m PyroUbot
-```
-```
----------- Menghidupan jika ubot mati -------------
-```
-```
-cd ubotalfnew && screen -S ubotalfnew
-```
-```
-python3 -m venv venv && source venv/bin/activate
-```
-```
-screen -S ubotalfnew
+screen -S Sigma
 ```
 ```
 python3 -m PyroUbot

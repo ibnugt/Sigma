@@ -18,10 +18,10 @@ class MSG:
 
 <b> 📚💎@{bot.me.username} ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ ᴅᴇɴɢᴀɴ ᴍᴜᴅᴀʜ</b>
 
-🚀ʙᴏᴛ ɪɴɪ ᴅɪᴋᴇᴍʙᴀɴɢᴋᴀɴ ᴏʟᴇʜ <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a> ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇsᴀʟᴀʜᴀɴ ᴀᴛᴀᴜᴘᴜɴ ᴍᴀsᴀʟᴀʜ ᴅᴍ ᴏᴡɴᴇʀ ʙᴏᴛ ʏᴀɪᴛᴜ: <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a>
+🚀ʙᴏᴛ ɪɴɪ ᴅɪᴋᴇᴍʙᴀɴɢᴋᴀɴ ᴏʟᴇʜ <a href=tg://openmessage?user_id={OWNER_ID}>@yaetiem</a> ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇsᴀʟᴀʜᴀɴ ᴀᴛᴀᴜᴘᴜɴ ᴍᴀsᴀʟᴀʜ ᴅᴍ ᴏᴡɴᴇʀ ʙᴏᴛ ʏᴀɪᴛᴜ: <a href=tg://openmessage?user_id={OWNER_ID}>@yaetiem</a>
 
 ᴛᴏᴛᴀʟ ᴘᴇɴɢɢᴜɴᴀ ᴜʙᴏᴛ: {len(ubot._ubot)} 
-ᴏᴡɴᴇʀ ᴜʙᴏᴛ: <a href=tg://openmessage?user_id={OWNER_ID}>G̺͆A̺͆N̺͆Z̺͆ V̺͆I̺͆L̺͆O̺͆P̺͆E̺͆R̺͆🇰🇼</a>
+ᴏᴡɴᴇʀ ᴜʙᴏᴛ: <a href=tg://openmessage?user_id={OWNER_ID}>𝙄𝘽𝙉𝙐 𝙈𝙕</a>
 
 <u>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ</u></b></blockquote>
 """
